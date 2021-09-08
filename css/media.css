@@ -1,0 +1,11 @@
+@media screen and (max-width: 510px) {
+    li {
+      min-width: 90%;
+    }
+  }
+  @media screen and (min-width: 600px) {
+    .exercice-container img {
+      max-height: 500px;
+      max-width: 500px;
+    }
+  }
